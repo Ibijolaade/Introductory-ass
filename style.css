@@ -1,0 +1,12 @@
+h{
+    font-size: larger;
+    font-weight: bolder;
+    margin-top: 24px;
+}
+.names{
+    font-size: medium;
+    font-weight: 100;
+    color: gray;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
